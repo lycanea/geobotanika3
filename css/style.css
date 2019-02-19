@@ -109,7 +109,8 @@
 		padding-bottom: 3em;
 		text-align: center;
 		text-transform: uppercase;
-	}
+		z-index: 2; 
+ 	}
 
 		header.major h2 {
 			font-size: 2.6em;
