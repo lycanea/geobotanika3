@@ -109,7 +109,6 @@
 		padding-bottom: 3em;
 		text-align: center;
 		text-transform: uppercase;
-		z-index: 2; 
  	}
 
 		header.major h2 {
@@ -558,6 +557,8 @@
 		color: white;
 		height: 4em;
 		background: rgba(0, 0, 0, 0.7);
+				z-index: 2; 
+
 	}
 
 		#header .container {
@@ -565,6 +566,8 @@
 			background: rgba(0, 0, 0, 0.7);
 			height: 4em;
 			width: 100%;
+					z-index: 2; 
+
 		}
 
 	.homepage #logo {
